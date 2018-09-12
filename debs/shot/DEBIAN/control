@@ -1,0 +1,9 @@
+Package: com.shotnine.assistantplusassistant
+Name: Assistant+ Assistant
+Version: 1.0
+Architecture: iphoneos-arm
+Author: Roy Hatter <royhatter@gmail.com>
+Maintainer: Roy Hatter <royhatter@gmail.com>
+Description: Links Assistant+ to Activator (iOS 9+). This script requires Assistant+ to already be able to save triggers to ensure a functional plist will be linked. Respringing is still necessary after any changes in the Assistant+ app.
+Depends: org.thebigboss.assistantplus
+Section: Scripting
