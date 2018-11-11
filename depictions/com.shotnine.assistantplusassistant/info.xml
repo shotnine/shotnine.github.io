@@ -1,7 +1,7 @@
 <package>
 	<id>com.shotnine.assistantplusassistant</id>
 	<name>Assistant+ Assistant</name>
-	<version>1.2</version>
+	<version>1.3</version>
 	<compatibility>
 		<firmware>
 			<miniOS>8.0</miniOS>
