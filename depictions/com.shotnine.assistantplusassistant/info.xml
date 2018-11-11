@@ -13,16 +13,17 @@
 	<shortDescription>Firmware should be greater than 8.0</shortDescription>
 	<descriptionlist>
 		<description>Get Assistant+ to work with Activator on iOS 9, 10, and 11!</description>
-		<description>Get Assistant+ to work on iOS 9, 10, and 11!</description>
 		<description><![CDATA[
 		Requirements:<br/> 
-		At least one saved trigger in Assistant+
+		Assistant+ launched at least once with at least one saved listener<br>
+		Activator v1.9.13b2 from http://rpetri.ch/repo<br/
+		ActivatorFix from http://jakeashacks.com/cydia<br/> 
 		]]>
 		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>Assistant+ works on iOS 11!</description>
+			<description>Assistant+ linked to Activator on iOS 11!</description>
 			<image>assistant.PNG</image>
 		</screenshot>		
 	</screenshots>
