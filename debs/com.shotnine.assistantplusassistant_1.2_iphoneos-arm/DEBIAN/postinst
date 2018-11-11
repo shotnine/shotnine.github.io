@@ -1,0 +1,4 @@
+#!/bin/bash
+echo attempting to create symbolic link to fix Assistant+
+find /var/mobile/Containers/Data/Application/* -name "com.assistantplus.app.plist" -exec ln -fs {} /var/mobile/Library/Preferences/com.assistantplus.app.plist \;
+echo Done!

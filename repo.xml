@@ -5,9 +5,12 @@
 			<url>https://reddit.com/u/shotnine/</url>
 		</link>
 		<link>
-			<name>Repo layout made by Raymond Velasquez</name>
+			<name>Thanks to Antique Dev for repo layout!</name>
+			<url>https://antiquedev.github.io</url>
+		</link>
+		<link>
+			<name>Thanks to Raymond Velasquez for depiction layout!</name>
 			<url>https://github.com/supermamon/Reposi3/</url>
-			<iconclass>fa fa-thumbs-up</iconclass>
 		</link>
 	</footerlinks>
 </repo>
