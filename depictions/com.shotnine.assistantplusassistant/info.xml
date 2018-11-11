@@ -1,32 +1,39 @@
 <package>
 	<id>com.shotnine.assistantplusassistant</id>
-	<name>Full Package</name>
-	<versio>1.2</version>
+	<name>Assistant+ Assistant</name>
+	<version>1.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>8.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>org.thebigboss.assistantplus</package>
-		<package>libactivator</package>
-		<package>com.jakeashacks.activatorfix</package>
+		<package>mobilesubstrate</package>
 	</dependencies>
+	<shortDescription>Firmware should be greater than 8.0</shortDescription>
 	<descriptionlist>
-		<description>Links Assistant+ to Activator (iOS 9, 10, 11)
-		<description>This script requires Assistant+ to already be able to save triggers to ensure a functional plist will be linked. </description>
+		<description>Get Assistant+ to work with Activator on iOS 9, 10, and 11!</description>
+		<description>Get Assistant+ to work on iOS 9, 10, and 11!</description>
+		<description><![CDATA[
+		Requirements:<br/> 
+		At least one saved trigger in Assistant+
+		]]>
+		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>Respring after making any changes in the Assistant+ app</description>
-			<image>scree.png</image>
-		</screenshot>			
+			<description>Assistant+ works on iOS 11!</description>
+			<image>assistant.PNG</image>
+		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>Fixed package.</change>
+		<change>Changed deb compression method for more universal compatibility</change>
 	</changelog>
 	<links>
 		<link>
-			<name>Reddit</name>
-			<url>https://www.reddit.com/u/shotnine</url>
-		</link
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

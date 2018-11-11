@@ -1,6 +1,6 @@
 <package>
-	<id>com.decimation.chargedup</id>
-	<name>Full Package</name>
+	<id>com.shotnine.spotifytouch</id>
+	<name>Spotify AutoTouch Scripts for iPhone 6/s/7/8</name>
 	<version>1.2</version>
 	<compatibility>
 		<firmware>
@@ -9,27 +9,35 @@
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
-		<package>com.shotnine.spotifytouch</package>
 	</dependencies>
+	<shortDescription>Spotify AutoTouch scripts for iPhone 6-sized devices</shortDescription>
 	<descriptionlist>
 		<description>Spotify AutoTouch scripts for iPhone 6-sized devices. Ideal for usage with Assistant+ to trigger script playback once a song has been searched for.</description>
-		<description>Requires group command configured as such</description>
-		<description>activator send libactivator.lockscreen.dismiss && uiopen spotify:search:tracks:[track]</description>
-		<description>track: url encoded</description>
+		<description>Requires Assistant+ and AutoTouch to be installed</description>
+		<description><![CDATA[
+		Uses Assistant+ group commands and an activator listener to play Spotify (songs, artists, albums, playlist)<br/> 
+		a multi-line item.
+		]]>
+		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>See screenshot</description>
-			<image>group.png</image>
-		</screenshot>			
+			<description>Assistant+ Activator Listener configuration</description>
+			<image>listener.PNG</image>
+		</screenshot>		
+		<screenshot>
+			<description>Assistant+ Group Command configuration</description>
+			<image>group.PNG</image>
+		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>fixed package</change>
+		<change>Improved deb compression method for better compatibility</change>
 	</changelog>
 	<links>
 		<link>
-			<name>Reddit</name>
-			<url>https://www.reddit.com/u/shotnine</url>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
 		</link>
 	</links>
 </package>

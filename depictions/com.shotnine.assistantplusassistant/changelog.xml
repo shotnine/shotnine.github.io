@@ -1,6 +1,10 @@
 <changelog>
 	<changes>
 		<version>1.2</version>
-		<change>Fixed package</change>
+		<change>Changed deb compression method for more universal compatibility</change>
+	</changes>
+	<changes>
+		<version>1.0</version>
+		<change>Initial Release</change>
 	</changes>
 </changelog>
