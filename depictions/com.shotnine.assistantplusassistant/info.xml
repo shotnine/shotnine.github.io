@@ -8,6 +8,8 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
+		<package>Assistant+</package>
+		<package>Activator 1.9b13 with ActivatorFix</package>
 		<package>mobilesubstrate</package>
 	</dependencies>
 	<shortDescription>Firmware should be greater than 8.0</shortDescription>
