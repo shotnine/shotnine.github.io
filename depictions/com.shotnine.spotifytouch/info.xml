@@ -1,0 +1,35 @@
+<package>
+	<id>com.decimation.chargedup</id>
+	<name>Full Package</name>
+	<version>1.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>com.shotnine.spotifytouch</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Spotify AutoTouch scripts for iPhone 6-sized devices. Ideal for usage with Assistant+ to trigger script playback once a song has been searched for.</description>
+		<description>Requires group command configured as such</description>
+		<description>activator send libactivator.lockscreen.dismiss && uiopen spotify:search:tracks:[track]</description>
+		<description>track: url encoded</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>See screenshot</description>
+			<image>group.png</image>
+		</screenshot>			
+	</screenshots>
+	<changelog>
+		<change>fixed package</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Reddit</name>
+			<url>https://www.reddit.com/u/shotnine</url>
+		</link>
+	</links>
+</package>

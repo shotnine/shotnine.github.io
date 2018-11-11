@@ -1,0 +1,32 @@
+<package>
+	<id>com.shotnine.assistantplusassistant</id>
+	<name>Full Package</name>
+	<versio>1.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>org.thebigboss.assistantplus</package>
+		<package>libactivator</package>
+		<package>com.jakeashacks.activatorfix</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Links Assistant+ to Activator (iOS 9, 10, 11)
+		<description>This script requires Assistant+ to already be able to save triggers to ensure a functional plist will be linked. </description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Respring after making any changes in the Assistant+ app</description>
+			<image>alm.PNG</image>
+		</screenshot>			
+	</screenshots>
+	<changelog>
+		<change>Fixed package.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Reddit</name>
+			<url>https://www.reddit.com/u/shotnine</url>
+		</link
