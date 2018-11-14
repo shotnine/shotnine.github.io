@@ -1,10 +1,11 @@
 <repo>
 	<footerlinks>
 		<link>
-			<name>/r/jailbreak</name>
+			<name>/u/shotnine</name>
 			<url>https://www.reddit.com/u/shotnine</url>
 			<iconclass>fa fa-reddit</iconclass>
 		</link>
+		<link>
 			<name>Thanks to Antique Dev for repo layout</name>
 			<url>https://antiquedev.github.io</url>
 		</link>
