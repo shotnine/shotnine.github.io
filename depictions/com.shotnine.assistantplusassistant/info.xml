@@ -16,6 +16,7 @@
 	<shortDescription>Firmware should be greater than 8.0</shortDescription>
 	<descriptionlist>
 		<description>Get Assistant+ to work with Activator on iOS 9, 10, and 11!</description>
+		<description>You only need to install this once, but make sure to respring after making any changes in the app for it to take effect.</description>
 		<description><![CDATA[
 		Requirements:<br/> 
 		Assistant+ launched at least once with at least one saved listener<br>
