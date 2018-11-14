@@ -16,7 +16,6 @@
 		<description>Requires Assistant+ and AutoTouch to be installed</description>
 		<description><![CDATA[
 		Uses Assistant+ group commands and an activator listener to play Spotify (songs, artists, albums, playlist)<br/> 
-		a multi-line item.
 		]]>
 		</description>
 	</descriptionlist>
